@@ -41,3 +41,4 @@ The program is designed to encrypt and decrypt images using two different XOR al
 - `ZaszyfrowaneZdjeciaAlgorytmemPodstawowym` or `ZaszyfrowaneZdjeciaALgorytmemRozszerzonym`: Contains encrypted images.
 - `OdszyfrowaneZdjeciaAlgorytmemPodstawowym` or `OdszyfrowaneZdjeciaAlgorytmemRozszerzonym`: Contains decrypted images.
 
+Author Natalia Polak
